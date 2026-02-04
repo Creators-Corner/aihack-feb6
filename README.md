@@ -1,0 +1,75 @@
+# Continual Learning Hackathon — Partner Resources
+
+A quick-reference collection of docs, APIs, and resources from our hackathon partners. Built for hackers and their coding agents.
+
+---
+
+## How to Use
+
+Point your coding agent (Cursor, Claude Code, Codex, etc.) to this repo or paste the relevant sections directly into your prompt. Each partner section contains everything you need to get started with their tools. If you have any questions, ask in the official hackathon Discord: https://discord.gg/S9pvPHKF
+
+---
+
+## Akash
+
+Decentralized cloud marketplace—deploy compute workloads on a global, permissionless network at a fraction of traditional cloud costs. Open source and censorship-resistant.
+
+**Resources:**
+- [Hacker Docs](https://docs.google.com/document/d/1gO1hyHlJFTs81kr-RNTDkM8nMOqqvq1RkAroIsKZyV4/edit?usp=sharing)
+
+---
+
+## AGI, Inc.
+
+Pioneering embedded superintelligence.
+
+---
+
+## Render
+
+Ship products fast at any scale. Host everything from hundred-line prototypes to applications with hundreds of services.
+
+**Resources:**
+- [Documentation](https://render.com/docs)
+- [Your First Deploy](https://render.com/docs/your-first-deploy)
+- [LLM Support Guide](https://render.com/docs/llm-support)
+
+---
+
+## You.com
+
+AI search infrastructure.
+
+**Resources:**
+- [Hackathon Resources](https://you.com/resources/hackathon)
+
+---
+
+## Plivo
+
+Voice AI Agents Builder Platform.
+
+**Resources:**
+- [Documentation](https://plivo.com/docs)
+- [Python Agents Examples](https://github.com/plivo/python-agents-examples)
+
+---
+
+## Composio
+
+Enable agents to take actions in apps.
+
+**Resources:**
+- [GitHub Repo](https://github.com/composiohq/composio)
+- [Documentation](https://docs.composio.dev/docs)
+- [Submit a Friction Log](https://tally.so/r/zxYGNk)
+
+---
+
+## The Challenge
+
+Build agents that don't just think—they act. Create autonomous, self-improving AI agents that tap into real-time data sources, make sense of what they find, and take meaningful action without human intervention. Design agents that continuously learn and improve as they operate.
+
+---
+
+Happy hacking 🚀
