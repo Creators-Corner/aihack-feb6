@@ -66,6 +66,25 @@ Enable agents to take actions in apps.
 
 ---
 
+## Lovable
+
+AI-powered full-stack app builder.
+
+**Hackathon Perk:** 100 credits on Pro Plan 1  
+**Code:** `CREATORSLOVABLE`  
+**Expires:** Sunday, Feb 8
+
+**How to redeem:**
+1. Go to [lovable.dev](https://lovable.dev)
+2. Create an account or sign in
+3. Go to Settings → Plans & Credits
+4. Select Pro Plan 1 (100 credits) — choose monthly plan
+5. Enter code `CREATORSLOVABLE` at checkout
+
+*Note: If you already have a paid account, create a new workspace first.*
+
+---
+
 ## The Challenge
 
 Build agents that don't just think—they act. Create autonomous, self-improving AI agents that tap into real-time data sources, make sense of what they find, and take meaningful action without human intervention. Design agents that continuously learn and improve as they operate.
