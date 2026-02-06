@@ -97,13 +97,13 @@ AI-powered full-stack app builder.
 
 ---
 
-## Google Cloud
+## Google Deepmind
 
-Free cloud credits for hackathon participants.
+Cloud credits for hackathon participants.
 
 **Claim here:** [trygcp.dev/claim/continual-learning](https://trygcp.dev/claim/continual-learning)
 
-*Requires the Gmail address you registered with on Luma.*
+*Use the same Gmail you registered with on Luma to claim.*
 
 ---
 
