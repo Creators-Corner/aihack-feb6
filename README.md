@@ -25,14 +25,15 @@ Pioneering embedded superintelligence.
 
 **Hackathon Perk:** $10 free API credits for every new user
 
-**Resources:**
-- [Platform & API Keys](https://platform.agi.tech)
-- [Documentation](https://docs.agi.tech)
-
-**Getting started:**
-1. Login to [platform.agi.tech](https://platform.agi.tech) (Google SSO enabled)
+**Getting Started:**
+1. Sign in at [platform.agi.tech](https://platform.agi.tech) (Google SSO enabled)
 2. Go to API Keys section to generate a new key
 3. Reach out on Discord for extra credits or support
+
+**Resources:**
+- [Platform & Playground](https://platform.agi.tech)
+- [Documentation](https://docs.agi.tech)
+- [Example Notebook](https://get.lucky-raspberry.com/b?y=49ii4eh26osjecr2c4q38opl60o3id9g60ojaopm6gpmcc125gh748hq49k78t3gect2ubr3dtm62ohee9in6pb1e9hmgbj7dtnmer355phmur9fchp6itj55sol2l9oapa2qlrh992mera4bt170q9oah456s3b9pck8pi18p8n8j12)
 
 ---
 
