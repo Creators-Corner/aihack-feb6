@@ -97,6 +97,16 @@ AI-powered full-stack app builder.
 
 ---
 
+## Google Cloud
+
+Google Cloud Platform credits for hackathon participants.
+
+**Claim your credits:** [trygcp.dev/claim/continual-learning](https://trygcp.dev/claim/continual-learning)
+
+*Note: Requires a Gmail account (use the same one you registered with).*
+
+---
+
 ## The Challenge
 
 Build agents that don't just think—they act. Create autonomous, self-improving AI agents that tap into real-time data sources, make sense of what they find, and take meaningful action without human intervention. Design agents that continuously learn and improve as they operate.
