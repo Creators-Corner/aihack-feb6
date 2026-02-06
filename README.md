@@ -23,6 +23,17 @@ Decentralized cloud marketplace—deploy compute workloads on a global, permissi
 
 Pioneering embedded superintelligence.
 
+**Hackathon Perk:** $10 free API credits for every new user
+
+**Resources:**
+- [Platform & API Keys](https://platform.agi.tech)
+- [Documentation](https://docs.agi.tech)
+
+**Getting started:**
+1. Login to [platform.agi.tech](https://platform.agi.tech) (Google SSO enabled)
+2. Go to API Keys section to generate a new key
+3. Reach out on Discord for extra credits or support
+
 ---
 
 ## Render
