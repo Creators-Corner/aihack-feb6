@@ -99,11 +99,11 @@ AI-powered full-stack app builder.
 
 ## Google Cloud
 
-Google Cloud Platform credits for hackathon participants.
+GCP credits for hackathon participants.
 
-**Claim your credits:** [trygcp.dev/claim/continual-learning](https://trygcp.dev/claim/continual-learning)
+**Claim here:** [trygcp.dev/claim/continual-learning](https://trygcp.dev/claim/continual-learning)
 
-*Note: Requires a Gmail account (use the same one you registered with).*
+*Use the Gmail account you registered with.*
 
 ---
 
