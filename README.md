@@ -103,7 +103,7 @@ Free cloud credits for hackathon participants.
 
 **Claim here:** [trygcp.dev/claim/continual-learning](https://trygcp.dev/claim/continual-learning)
 
-*Must use the Gmail account you registered with.*
+*Requires the Gmail address you registered with on Luma.*
 
 ---
 
