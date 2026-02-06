@@ -101,9 +101,9 @@ AI-powered full-stack app builder.
 
 Cloud credits for hackathon participants.
 
-**Claim here:** [trygcp.dev/claim/continual-learning](https://trygcp.dev/claim/continual-learning)
+*Heads up: This only works if you registered on Luma with a Gmail address. Use that same Gmail to claim your credits at the link below.*
 
-*Use the same Gmail address you registered with on Luma to claim.*
+**Claim here:** [trygcp.dev/claim/continual-learning](https://trygcp.dev/claim/continual-learning)
 
 ---
 
